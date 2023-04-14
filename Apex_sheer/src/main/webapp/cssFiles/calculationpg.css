@@ -1,0 +1,157 @@
+@charset "ISO-8859-1";
+
+#calcul_div{
+	
+		
+  width: 500px;
+  height: 885px;
+  padding: 40px;
+  margin :auto;
+  box-shadow: 5px 5px 5px #cbced1, -5px -5px 5px white;
+  border-radius: 20px;
+  background:linear-gradient(to bottom, #1DA1F2 0%, #e7e7e7  100%);
+  text-align: center;
+  
+  
+}
+
+#calculatdiv{
+	
+	
+  width: 300px;
+  height: 360px;
+  padding: 40px;
+  margin :auto;
+  box-shadow: 5px 5px 5px #cbced1, -5px -5px 5px white;
+  border-radius: 20px;
+  background:#e7feff;
+  text-align: center;
+	
+	
+}
+#enter{
+	
+  font-size :20px;	
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  color: white;
+  margin-top: 20px;
+  background:#000072;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight:1200;
+  box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px
+	
+}
+#amountup{
+	
+  width: 300px;
+  height:270px;
+  padding: 40px;
+  margin :auto;
+  box-shadow: 5px 5px 5px #cbced1, -5px -5px 5px white;
+  border-radius: 20px;
+  background:#e7feff;
+  text-align: center;
+	
+		
+}
+a:link{
+ text-decoration :none;	
+}
+
+#btnid1{
+	
+ 	
+  font-size :20px;	
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  color: white;
+  margin-top: 20px;
+  background:#000072;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight:1200;
+  box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px
+
+}
+
+#pay{
+	
+	
+  font-size :20px;	
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  color: white;
+  margin-top: 20px;
+  background:#000072;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight:1200;
+  box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px
+	
+	
+	
+}
+
+#det23{
+	
+	font-size: 18px;
+	
+
+}
+
+
+#pkm{
+	font-size: 18px;
+}
+#amthr1{
+	font-size: 18px;
+}
+#amthr2{
+	font-size: 18px;
+}
+#att1{
+	font-size: 18px;
+}
+#tt{
+	font-size: 18px;
+}
+
+#amt{
+	text-align: center;
+}
+#amthr{
+	text-align: center;
+}
+#hrs{
+	text-align: center;
+}
+#att{
+	text-align: center;
+}
+#tot{
+	text-align: center;
+}
+#int2
+{
+   text-align: center;	
+}
+#int1{
+	text-align: center;
+}

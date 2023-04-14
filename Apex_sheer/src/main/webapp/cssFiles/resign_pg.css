@@ -1,0 +1,75 @@
+@charset "ISO-8859-1";
+
+#h1r{
+	text-align:center;
+	padding :1px;
+	
+}
+
+#respgdiv{
+	
+	
+  width: 500px;
+  height: 670px;
+  padding: 40px;
+  margin :auto;
+  box-shadow: 5px 5px 5px #cbced1, -5px -5px 5px white;
+  border-radius: 20px;
+  background: linear-gradient(to bottom, #1DA1F2 0%, #e7e7e7 100%);
+  text-align: center;
+	
+	
+	
+}
+
+#disdetails{
+	
+  width: 300px;
+  height: 400px;
+  padding: 40px;
+  margin :auto;
+  
+  border-radius: 20px;
+  background:#e7feff;
+	
+	
+	
+}
+
+#input1{
+	
+	width :30%;
+	text-align: center;
+	font-size: 17px;
+	
+}
+#input2{
+	
+	width :25%;
+	text-align: center;
+	font-size: 17px;
+}
+#leb1{
+	font-size: 18px;
+	font-weight: bold ;
+}
+
+#sures{
+	
+  margin :auto;	
+  font-size :20px;	
+  display: block;
+  width: 50%;
+  padding: 0;
+  border: none;
+  outline: none;
+  color: white;
+  margin-top: 20px;
+  background: #000072;
+  height: 40px;
+  border-radius: 100px;
+  cursor: pointer;
+  font-weight:1200;
+  box-shadow: 6px 6px 6px white, -6px -6px 6px 
+	
+}

@@ -1,0 +1,172 @@
+@charset "ISO-8859-1";
+
+
+
+
+.logo{
+	
+	float:left;
+	font-style: oblique;
+	text-shadow: 2px 2px 5px #C96567;
+	font-size:25px;
+	font-weight:bold;
+	margin-right:10px;
+	margin-left:15px;
+	margin-bottom:6px;
+	
+
+}
+
+.topnav {
+    background-color: #314455;
+    overflow: hidden;
+	
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 30px 20px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+
+.topnav a:hover {
+  background-color: #C96567;
+  color: black;
+}
+
+
+.topnav a.active {
+background-color:#c96567;
+color: white;
+}
+
+
+
+.topnav-right {
+  float: right;
+}
+.option {
+	
+	font-size : 30px;
+	font-weight:bold;
+	float:center;
+	text-align:center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height:50%
+}
+
+
+
+
+
+
+.transbox {
+  margin: 30px;
+  background-color: #C5C6D0;
+  border: 0;
+  opacity: 0.6;
+  padding : 5px;
+ 
+}
+
+.transbox p {
+  margin: 10%;
+  font-weight: bold;
+  color: #000000;
+}
+
+footer {
+  
+  padding: 40px;
+  background-color:#314455;
+  color: white;
+}
+
+ul.quicklinks {
+	
+	text-align:center;
+	margin-top: 10px;
+	list-style: none;
+}
+
+ul.quicklinks li a {
+	
+	color: white;
+}
+
+.socialmedia { 
+	float: left; 
+}
+
+.socialmedia ul { 
+	list-style: none 
+}
+
+.socialmedia ul li { 
+	display: inline 
+}
+
+.socialmedia ul li a {
+	margin-left: 6px;
+	padding: 7px;
+	background: black;
+	color: white;
+	display: Bottom left;
+	border-radius: 20px;
+}
+
+.socialmedia ul li a:hover {
+	background: orange;
+}
+
+ul.credit li a {
+	
+	color: white;
+}
+
+
+.credit { 
+	float:right; 
+}
+
+.credit ul { 
+	list-style: none ;
+}
+
+.credit ul li { 
+	display: inline ;
+}
+
+.credit ul li a {
+	margin-left: 8px;
+	padding: 10px;
+	background: black;
+	color: white;
+	display:right;
+	border-radius: 20px;
+}
+
+.credit ul li a:hover {
+	background: orange;
+}
+
+
+.para4{
+
+color:gray;
+text-align:center;
+left: 50%;
+
+
+}

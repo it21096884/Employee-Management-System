@@ -1,0 +1,106 @@
+@charset "ISO-8859-1";
+
+.calman{
+	
+  position: relative;
+  width: 350px;
+  height: 580px;
+  border-radius: 20px;
+  padding: 40px;
+  box-sizing: border-box;
+  background: linear-gradient(to bottom, #1DA1F2 50%, #e7e7e7  90%);
+  box-shadow: 8px 0px 8px #cbced1, -5px -0px 5px white;
+  margin :auto;
+  text-align: center;
+	
+}
+
+#input1{
+	
+  text-align: center;
+  margin-top: 30px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  background: #ecf0f3;
+  padding: 10px;
+  padding-left: 20px;
+  height: 50px;
+  font-size: 14px;
+  border-radius: 50px;
+  box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
+}
+
+
+#input2{
+  text-align: center;
+  margin-top: 30px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  background: #ecf0f3;
+  padding: 10px;
+  padding-left: 20px;
+  height: 50px;
+  font-size: 14px;
+  border-radius: 50px;
+  box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
+	
+}
+
+#enthed{
+
+  font-size :30px;
+  margin-top: 10px;
+  font-weight: 600;
+  color: black ;
+  letter-spacing: 1px;
+	
+}
+input::placeholder {
+  color: gray;
+  text-align: center;
+}
+
+label {
+	
+  font-size :25px;
+  margin-bottom: 4px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+}
+#enter1{
+
+	
+  font-size :20px;	
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  color:white ;
+  margin-top: 20px;
+  background: #000072;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight:1200;
+  box-shadow: 2px 2px 2px #cbced1, -2px -2px 2px 
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,70 @@
+@charset "ISO-8859-1";
+
+
+
+#regisEmp
+{
+	
+	
+  width: 500px;
+  height: 650px;
+  padding: 40px;
+  margin :auto;
+  box-shadow: 5px 5px 5px #cbced1, -5px -5px 5px white;
+  border-radius: 20px;
+   background: linear-gradient(to bottom, #1DA1F2 0%, #e7e7e7 100%);
+  text-align: center;
+	
+	
+	
+	
+}
+
+#regfill{
+	
+	
+		
+  width: 300px;
+  height:400px;
+  padding: 40px;
+  margin :auto;
+  box-shadow: 5px 5px 5px #cbced1, -5px -5px 5px white;
+  border-radius: 20px;
+  background: #ccf2ff;
+  text-align: center;
+	
+	
+	
+}
+#label3{
+	
+font-size: 18px;
+font-weight: bold ;
+	
+		
+}
+
+#reginbtn
+{
+  
+  margin :auto;	
+  font-size:15px;	
+  display: block;
+  width:60%;
+  padding: 0;
+  border: none;
+  outline: none;
+  color: white;
+  margin-top: 20px;
+  background:#000072;
+  height: 40px;
+  border-radius: 100px;
+  cursor: pointer;
+  font-weight:1300;
+  box-shadow: 6px 6px 6px white, -6px -6px 6px
+	
+	
+	
+	
+	
+}
